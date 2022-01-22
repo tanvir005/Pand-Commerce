@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
+
+.panda-bg{
+    background-color: #FEEAE9;
+    border-radius: 15px;
+}
+h1{
+    font-family: Poppins !important;
+    font-style: normal;
+    font-weight: bold !important;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 56px;
+    line-height: 84px;
+    color: #1F1F1F;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 8px 0px;
+}
+.panda-btn{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%) !important;
+    border-radius: 6px;
+    font-family: Inter !important;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+.price{
+    color: #FF136F !important;
+    border-radius: 10px;
+}
+ul li{
+    font-family: Poppins !important;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #707070 !important;
+    border-bottom: 2px solid #ffffff;
+}
+.icon {
+    color: gray;
+}
+.icon:hover {
+    color: darkgray;
+}
+
+ul li a:hover{
+    border-bottom: 1px solid black;
+}
+.catagories img{
+    width: 94px;
+    height: 94px;
+}
+
+.catagories .watch{
+    width: 358px;
+    height: 120px;
+    border-radius: 10px;
+    background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
+}
+.catagories .beg{
+    width: 358px;
+    height: 120px;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
+.catagories .shoe{
+    width: 358px;
+    height: 120px;
+    border-radius: 10px;
+    background: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+}
+
+.catagories h1{
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 36px !important;
+    line-height: 54px;
+}
